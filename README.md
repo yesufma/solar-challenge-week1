@@ -15,6 +15,6 @@ This repository contains the code and analysis for MoonLight Energy Solutions' s
 - **Data Profiling & Cleaning**: Outlier detection, missing value imputation, and validation of solar metrics (GHI, DNI, DHI).
 - **Time Series Analysis**: Daily/seasonal trends in irradiance and temperature.
 - **Cross-Country Comparison**: Statistical tests and visual comparisons of solar potential.
-- **Interactive Dashboard**: Streamlit app for dynamic visualization (optional bonus).
+
 
 ---
