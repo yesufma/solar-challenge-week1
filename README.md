@@ -27,6 +27,6 @@ This repository contains the code and analysis for MoonLight Energy Solutions' s
 
 This dashboard visualizes solar radiation data from West African countries using Streamlit.
 
-![Dashboard Screenshot](https://github.com/yesufma/solar-challenge-week1/blob/Main/data/streamlit.png?raw=true)
+![Dashboard Screenshot](https://github.com/yesufma/solar-challenge-week1/blob/Main/data/Streamlit_dashboard.png?raw=true)
 
 ---
