@@ -16,7 +16,7 @@ This repository contains the code and analysis for MoonLight Energy Solutions' s
 - **Time Series Analysis**: Daily/seasonal trends in irradiance and temperature.
 - **Cross-Country Comparison**: Statistical tests and visual comparisons of solar potential.
 ## Reproduction Steps
-1. Clone repo: `git clone https://github.com/yourusername/solar-challenge-week1`
+1. Clone repo: `git clone https://github.com/yesufma/solar-challenge-week1`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run Jupyter notebooks in this order:
    - `benin_eda.ipynb`
